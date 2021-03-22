@@ -4,9 +4,9 @@ on:
 #   watch:
 #     type: started
 
-  schedule:
-    - cron: '20 22 * * *'
-    - cron: '20 10 * * *'
+#   schedule:
+#     - cron: '20 22 * * *'
+#     - cron: '20 10 * * *'
 
 jobs:
   submit:
